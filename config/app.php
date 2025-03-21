@@ -188,7 +188,7 @@ return [
          */
         Astrotomic\Translatable\TranslatableServiceProvider::class,
         Barryvdh\DomPDF\ServiceProvider::class,
-        Intervention\Image\ImageServiceProvider::class,
+        // Intervention\Image\ImageServiceProvider::class,
         Konekt\Concord\ConcordServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
         Prettus\Repository\Providers\RepositoryServiceProvider::class,
